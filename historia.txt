@@ -1,5 +1,6 @@
 Esta es la hitoria de Joel
 
-En este momento tiene 23 años
+En este momento tiene 24 años,
+y aun no se ha titulado
 
 Y esta aprendiendo git
