@@ -1,3 +1,4 @@
 *.png
 *.jpg
 ./*.sh
+bash-alias.sh
